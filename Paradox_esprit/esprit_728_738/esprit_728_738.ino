@@ -42,7 +42,15 @@ void loopback() {
         packet = readPacket();
         delayMicroseconds(50);
 //      }
-      Serial.print(packet + " ");
+      String pkt = "";
+      for (int n=0; n<packet.length(); n++) {
+        if (n%8 == 0) {
+        pkt = pkt + " ";
+        }
+        pkt = pkt + String(packet[n]);
+      }
+
+      Serial.print(pkt + " ");
       if(!packet.equals(previousPacket)) {
         processPacket();
         previousPacket = packet;
