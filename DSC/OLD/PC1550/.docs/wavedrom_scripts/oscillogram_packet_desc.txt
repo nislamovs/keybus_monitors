@@ -1,0 +1,22 @@
+(function (bits, ticks) {
+  var t, data = [];
+  for (t = 1; t <= ticks; t++) {
+    data.push(t + '.0');
+    data.push(t + '.1');
+  }
+  return {
+
+    signal: [
+      {name: 'clk', wave: '1....'+'01'.repeat(ticks/2)+'1....'},
+      {name: 'data', wave: '0....'+'='.repeat(ticks)+'0....', data: data}
+    ],
+
+    head:{
+      text:'DSC PC-1550 keybus oscillogram',
+    },
+    foot:{
+      text:'Figure #1',
+    }
+ };
+
+})(1, 32)

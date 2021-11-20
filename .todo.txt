@@ -1,0 +1,109 @@
+# add photos of alarm systems mainboards
+# add those photos to readme (description section) + short description
+
+# maybe link to manuals(pdf)
+# wavedrom scripts graph1.txt - rename everywhere
+# add protocol description for all alarm systems
+
+# add connection diagrams
+
+# add oscillograms (maybe with examples) and/or logical analyser diagrams
+
+# Create summary in README.MD
+
+@Esprit 728/738
+# write also zones, armed/disarmed statuses
+# check data line with different keyboards
+
+@DSC all
+# write also zones, armed/disarmed statuses
+# write meaning of pulses in arduino code
+# write meaning of pulses in readme.
+
+AUX in
+SIDE A, SIDE B armed
+
+# Alarm systems for research:
+
+Paradox:
+  esprit:
+    esprit 728+
+    esprit 728 ultra
+    esprit 738+
+    esprit 738 ultra
+    esprit 748+
+    e55
+    e65
+
+  spectra:
+
+  magellan:
+
+  digiplex:
+
+DSC:
+  classic:
+    pc-585
+    pc-1565
+
+  power:
+    pc-5010
+    pc-5020
+
+    pc580 (Power 432)
+    pc5010 (Power 832)
+    pc1555 (Power 632)
+    pc5020 (Power 864)
+
+  neo:
+    pc-1404
+
+  old:
+    pc-500
+    pc-510
+    pc-550
+    pc-560
+    pc-1000
+    pc-1500
+    pc-1550
+    pc-2500
+    pc-2550
+    pc-3000
+
+  maxsys:
+    4020
+    6010
+
+Caddx:
+
+  NX-4
+  NX-6
+  NX-8
+
+Texecom:
+
+
+Pima:
+
+Satel:
+
+
+Cortex:
+
+
+Teletek:
+
+
+Visonic:
+
+
+Jabloton:
+
+NAPCO:
+
+Scantronics:
+
+
+Crow:
+
+Innerrange:
