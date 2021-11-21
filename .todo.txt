@@ -1,15 +1,16 @@
 # add photos of alarm systems mainboards
-# add those photos to readme (description section) + short description
+# add those photos to readme (description section)
+  + short description
 
 # maybe link to manuals(pdf)
-# wavedrom scripts graph1.txt - rename everywhere
+# wavedrom scripts graph1.txt - rename everywhere                                           DONE
 # add protocol description for all alarm systems
 
 # add connection diagrams
 
 # add oscillograms (maybe with examples) and/or logical analyser diagrams
 
-# Create summary in README.MD
+# Create summary in README.MD with links to appropriate readme files
 
 @Esprit 728/738
 # write also zones, armed/disarmed statuses

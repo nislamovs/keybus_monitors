@@ -35,7 +35,7 @@ DSC PC-550 keybus description.
 
 ![Oscillogram](.docs/oscilloscope_photos/PC550_oscillogram.jpg) <!-- .element height="50%" width="50%" -->
 
-##### Keybus oscillogram (click to enlarge):
+##### Keybus description (click to enlarge):
 
 ![Keybus](.docs/pc550_oscillogram.png) <!-- .element height="50%" width="50%" -->
 
