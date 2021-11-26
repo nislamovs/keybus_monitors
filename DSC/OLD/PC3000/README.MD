@@ -1,4 +1,4 @@
-DSC PC-3000 keybus description.
+#DSC PC-3000 keybus description.
 
 ### Summary:
 
@@ -43,7 +43,7 @@ Description:
 
 | Pulse No | Represents | Description [ logical state ] | Additional info |
 |:--------------|:----------------:|:----------------:|:----------------:|
-|1.0|Button F,A,P|Pushed[0], not pushed[1]| Trouble |
+|1.0|Button F,A,P|Pushed[0], not pushed[1]||
 |1.1|Zone 1 LED|Led is on[1], led is off[0]| [1] - zone is opened, [0] - zone is closed  |
 |2.0|Button 1,4,7,*,F|Pushed[0], not pushed[1]| |
 |2.1|Zone 2 LED|Led is on[1], led is off[0]| [1] - zone is opened, [0] - zone is closed |

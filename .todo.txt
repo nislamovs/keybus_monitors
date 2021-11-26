@@ -1,28 +1,34 @@
 # add photos of alarm systems mainboards
-# add those photos to readme (description section)
-  + short description
-
-# maybe link to manuals(pdf)
-# wavedrom scripts graph1.txt - rename everywhere                                           DONE
+# add those photos to readme (description section) + short description
+# add link to manuals(pdf)
 # add protocol description for all alarm systems
-
 # add connection diagrams
-
 # add oscillograms (maybe with examples) and/or logical analyser diagrams
-
 # Create summary in README.MD with links to appropriate readme files
+
+------------------------------------------------
 
 @Esprit 728/738
 # write also zones, armed/disarmed statuses
 # check data line with different keyboards
 
-@DSC all
+------------------------------------------------
+
+@DSC OLD
 # write also zones, armed/disarmed statuses
 # write meaning of pulses in arduino code
-# write meaning of pulses in readme.
 
 AUX in
 SIDE A, SIDE B armed
+
+------------------------------------------------
+#Napco magnum
+Alarm status (if it is triggered)
+Fire zone
+------------------------------------------------
+
+
+
 
 # Alarm systems for research:
 
@@ -37,8 +43,21 @@ Paradox:
     e65
 
   spectra:
+    sp4000
+    sp5000
+    sp5500
+    sp6000
+    sp7000
+    sp65
+
+    spectra 1727
+    spectra 1728
+    spectra 1738
 
   magellan:
+    mg5000
+    mg5050
+    mg5075
 
   digiplex:
 
@@ -72,6 +91,7 @@ DSC:
     pc-3000
 
   maxsys:
+    4010
     4020
     6010
 
@@ -101,6 +121,8 @@ Visonic:
 Jabloton:
 
 NAPCO:
+  Magnum 1008e
+
 
 Scantronics:
 

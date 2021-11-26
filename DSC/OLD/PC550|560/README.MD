@@ -1,4 +1,4 @@
-DSC PC550/PC560 keybus description.
+#DSC PC550/PC560 keybus description.
 
 ### Summary:
 

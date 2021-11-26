@@ -1,12 +1,14 @@
-DSC PC-585 keybus description.
+DSC PC-1565 keybus description.
 
 ### Summary:
 
 1. [Description](#description)
-2. [DSC_585 Series keybus description](#keybus)
+2. [DSC_PC1565 Series keybus description](#keybus)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Description:
+
+![Panel](.docs/panels_photos/DSC_PC1565.jpg) <!-- .element height="50%" width="50%" -->
 
 [Back](#summary)
 
@@ -30,7 +32,11 @@ DSC PC-585 keybus description.
 
 ##### Keybus oscillogram (click to enlarge):
 
-![Keybus](.docs/dsc585_oscillogram.png) <!-- .element height="50%" width="50%" -->
+![Keybus](.docs/oscilloscope_photos/dsc1565_oscillogram.jpg) <!-- .element height="50%" width="50%" -->
+
+##### Keybus description (click to enlarge):
+
+![Keybus](.docs/DSC_PC1565.jpg) <!-- .element height="50%" width="50%" -->
 
 Description:
 

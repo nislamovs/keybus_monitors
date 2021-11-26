@@ -1,4 +1,4 @@
-DSC PC-1000 keybus description.
+#DSC PC-1000 keybus description.
 
 ### Summary:
 

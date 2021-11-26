@@ -1,4 +1,4 @@
-DSC PC-2550 keybus description.
+#DSC PC-2550 keybus description.
 
 ### Summary:
 

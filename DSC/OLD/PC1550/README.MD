@@ -1,4 +1,4 @@
-DSC PC-1550 keybus description.
+#DSC PC-1550 keybus description.
 
 ### Summary:
 

@@ -1,0 +1,22 @@
+(function (bits, ticks) {
+  var t, data = [];
+  for (t = 1; t <= ticks; t++) {
+    data.push(t + '.0');
+    data.push(t + '.1');
+  }
+  return {
+
+    signal: [
+      {name: 'clk', wave: '0....'+'10'.repeat(ticks/2)+'0....'},
+      {name: 'data', wave: '1....'+'='.repeat(ticks)+'1....', data: data}
+    ],
+
+    head:{
+      text:'NAPCO Magnum Alert MA1008e keybus oscillogram',
+    },
+    foot:{
+      text:'Figure #1',
+    }
+ };
+
+})(1, 56)
